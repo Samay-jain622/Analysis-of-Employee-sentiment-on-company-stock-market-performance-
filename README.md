@@ -18,5 +18,4 @@ Macroeconomic factors: Crude oil prices, Brent oil prices, gold prices, and more
 
 This analysis aims to uncover how internal (employee-driven) and external (market/economic) factors jointly influence stock performance.
 
-https://github.com/Samay-jain622/Analysis-of-Employee-sentiment-on-company-stock-market-performance-/blob/de2bd35c37abe87190e2309e3d317dde04466880/flowchart.png
 ![image_alt](https://github.com/Samay-jain622/Analysis-of-Employee-sentiment-on-company-stock-market-performance-/blob/de2bd35c37abe87190e2309e3d317dde04466880/flowchart.png)
